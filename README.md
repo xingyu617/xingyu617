@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=xingyu617.xingyu617)](https://github.com/xingyu617) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/xingyu617?tab=followers)
+
 I'm Xingyu, a MS student in Computational Biology at ETH Zurich.
 
 - <i>Previously:</i> CS&Bio BS student at McGill University.
