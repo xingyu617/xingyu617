@@ -48,7 +48,7 @@ I'm Xingyu, a MS student in Computational Biology at ETH Zurich.
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/xingyu617/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xingyu617&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/xingyu617/"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xingyu617&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 <!-- GitHub section: END -->
